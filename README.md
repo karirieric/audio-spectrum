@@ -10,7 +10,6 @@ The Audio Spectrum Visualizer is a Python application that captures audio input 
 - Interactive graphical interface for audio data.
 - Customizable audio input settings.
 - Easy-to-use and intuitive user interface.
-- Open-source project under the MIT License.
 
 ## Prerequisites
 
