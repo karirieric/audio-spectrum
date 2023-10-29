@@ -1,7 +1,6 @@
 import pyaudio
 import numpy as np
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from pyqtgraph import PlotWidget
 
 #Substitute 'audio1.wav' with your desired audio file for the project.
 audio_file = 'audio1.wav'
