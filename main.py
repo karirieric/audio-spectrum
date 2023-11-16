@@ -2,7 +2,7 @@ import pyaudio
 import numpy as np
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
-#Substitute 'audio1.wav' with your desired audio file for the project.
+#Substitute 'audio1.wav' with your desired audio file for your project.
 audio_file = 'audio1.wav'
 p = pyaudio.PyAudio()
 
